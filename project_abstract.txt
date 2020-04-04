@@ -1,0 +1,12 @@
+There is a matlab code which is capable of controlling
+the servo robotic arm with 3 degree of freedom with the help of coloures(RGB)
+written a simple matlab code which detects the colour and according to the colour detected the 
+the servo motors are actuated using the arduino microcontroller.arduino is used for serial communication
+,like some alphanumeric values are sent and so the operations are predefined for those values.
+coloures are detected based on the pixel values from 0-255.
+applications:
+1.colour segrigation 
+2.segrigation of bottles based on coloures.
+3.segrigation of vegitables like green tomatoes and red for the farmers with huge fields.
+4.weed seperation
+and  many more...................
